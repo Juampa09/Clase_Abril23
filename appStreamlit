@@ -1,9 +1,0 @@
-iot_dashboard/
-│
-├── app.py
-├── requirements.txt
-
-streamlit
-influxdb-client
-pandas
-plotly
